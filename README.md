@@ -43,7 +43,7 @@ This project is the **deployed interactive front-end** for a movie recommendatio
 
 ## 🚀 Live Demo
 
->  — deployed to [Streamlit Community Cloud](https://movie-recommender-app-rnsbnbtaaawhqkjhzldybs.streamlit.app/): public link._
+>  — deployed to [Streamlit Community Cloud live app](https://movie-recommender-app-rnsbnbtaaawhqkjhzldybs.streamlit.app/): public link._
 
 To run the app locally, see [Getting Started](#️-getting-started) below.
 
