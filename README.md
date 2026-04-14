@@ -146,7 +146,7 @@ Movie recommender app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/movie-recommender-app.git
+git clone https://github.com/njorogepaul-moghul/movie-recommender-app.git
 cd movie-recommender-app
 ```
 
