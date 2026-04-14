@@ -10,7 +10,7 @@
 
 **An interactive Streamlit web app that delivers personalized movie recommendations using two machine learning approaches — Content-Based Filtering and Item-Based Collaborative Filtering — trained on the MovieLens 100K dataset.**
 
-[🚀 Live Demo](#-live-demo) · [📖 How It Works](#-how-it-works) · [⚙️ Getting Started](#️-getting-started) · [🗂️ Project Structure](#️-project-structure)
+[🚀 Live Demo](https://movie-recommender-app-rnsbnbtaaawhqkjhzldybs.streamlit.app/) · [📖 How It Works](#-how-it-works) · [⚙️ Getting Started](#️-getting-started) · [🗂️ Project Structure](#️-project-structure)
 
 </div>
 
@@ -43,7 +43,7 @@ This project is the **deployed interactive front-end** for a movie recommendatio
 
 ## 🚀 Live Demo
 
->  — deployed to [Streamlit Community Cloud](https://streamlit.io/cloud) for a public link._
+>  — deployed to [Streamlit Community Cloud](https://movie-recommender-app-rnsbnbtaaawhqkjhzldybs.streamlit.app/): public link._
 
 To run the app locally, see [Getting Started](#️-getting-started) below.
 
